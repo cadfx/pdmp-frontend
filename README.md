@@ -4,4 +4,4 @@
 A frontend JavaScript/React user interface for PDMP.
 
 ## License
-Proprietary
+Is there a specific software license to be used here for legal protection on the part of Arup?
